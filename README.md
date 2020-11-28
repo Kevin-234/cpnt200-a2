@@ -7,6 +7,7 @@
 ### Attribution
 - Week 11 Friday video
 
+- php net [Document: Parameters](https://www.php.net/manual/en/function.header.php)
 ### Comments
 - It was difficult to understand how to bring data to frontend and use phpMyAdmin, but week 11 Thursday and Friday video helped me.
 

@@ -18,7 +18,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
     <!-- css -->
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/main.css">
     <link rel="stylesheet" href="assets/css/reset.css">
     <!-- google font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -27,9 +27,9 @@
 
 <body>
     <div class="header">
-        <h2>Customer List</h2>
+        <h1>Customer List</h1>
     </div>
-    
+
     <main class="wrapper">
         <!-- REQUIREMENT for each loop for customers -->
         <?php foreach($customers as $customer): ?>

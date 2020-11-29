@@ -9,6 +9,9 @@ body {
     justify-content: center;
     align-items: center;
     background-color: rgb(252, 96, 122);
+
+    /* position title to center */
+    text-align: center;
 }
 
 /* customer list */
